@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Sandbox-Enterprise/DemoProject/_apis/build/status/Sandbox-Enterprise.pipelines-java?branchName=master)](https://dev.azure.com/Sandbox-Enterprise/DemoProject/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
